@@ -1,0 +1,1 @@
+web: gunicorn fistsite.wsgi --log-file -
